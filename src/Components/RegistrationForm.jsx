@@ -3,7 +3,7 @@ import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
 
 function RegistrationForm() {
-   let istrue = true;
+   let istrue = false;
 
     return (
     <>
